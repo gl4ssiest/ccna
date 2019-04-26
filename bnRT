@@ -1,0 +1,247 @@
+1. Una empresa está expandiendo sus nego ---WAN
+2. Un usuario doméstico está buscando un ---DSL
+3. ¿De qué manera la calidad de servicio ---Proporcionando mecanismos para gestionar
+4. ¿En qué interfaz de switch configurar ---VLAN 1
+5. Después de realizar cambios de config ---La nueva configuración se cargará si se
+6. Consulte la ilustración. Un administr ---secretin
+7. ¿Qué conexión proporciona una sesión ---Una conexión SSH
+8. Un técnico de red está intentando con ---El comando se introduce en el modo de op
+9. ¿Qué función tiene pulsar la tecla Ta ---Completa el resto de una palabra parcial
+10. ¿Cuál es el protocolo responsable de ---TCP
+11. ¿Qué capa es responsable de enrutar ---Internet
+12. ¿Qué afirmación describe con precisi ---Los segmentos se envían de la capa de tr
+13. ¿Qué dirección única está incorporad ---Dirección MAC
+14. Un administrador de red lleva a cabo ---Capa física
+15. Un administrador de redes mide la tr ---La cantidad de tráfico que cruza la red ---El tipo de tráfico que cruza la red ---La latencia generada por la cantidad de
+16. ¿Qué procedimiento se utiliza para r ---Retorciendo juntos los pares de cables d
+17. ¿Cuál de las siguientes es una carac ---Coloca en la trama información que permi
+18. ¿Qué método se utiliza para administ ---CSMA/CA
+19. Durante el proceso de encapsulación, ---Se agrega la dirección física.
+20. ¿Cuáles son las tres funciones princ ---Detección de errores mediante cálculos d ---Direccionamiento de la capa de enlace de ---Delimitación de grupos de bits en tramas
+21. ¿Cuáles son dos características de l ---Son globalmente únicas. ---Se expresan con 12 dígitos hexadecimales
+22. Si un dispositivo recibe una trama E ---Elimina la trama
+23. ¿Qué hace un host de una red Etherne ---Descarta la trama.
+24. ¿Bajo qué dos circunstancias un swit ---La trama tiene la dirección de broadcast ---La dirección de destino es desconocida p
+25. ¿Qué método de conmutación tiene el ---Reenvío rápido
+26. ¿Qué dos comandos se pueden utilizar ---route print ---netstat -r
+27. ¿Cuáles son las dos funciones princi ---Reenvío de paquetes ---Selección de ruta
+28. ¿Cuáles de los siguientes son tres i ---192.168.0.0/16 ---172.16.0.0/12 ---10.0.0.0/8
+29. ¿Qué propósito cumple NAT64 en IPv6? ---Convierte los paquetes IPv6 en paquetes
+30. ¿Cuál es la representación binaria d ---11001010
+31. ¿Como mínimo, ¿qué dirección se requ ---Link-local
+32. ¿Qué servicio proporciona direcciona ---SLAAC
+33. ¿Cuál es el propósito del comando pi ---Prueba la configuración interna de un ho
+34. ¿Cuántas direcciones IP utilizables ---30
+35. ¿Cuál de las siguientes subredes inc ---192.168.1.64/26
+36. Un administrador de red desea tener
+Subred A: Teléfonos IP – 10 direcciones
+Subred B: PC – 8 direcciones
+Subred C: Impresoras – 2 direcciones
+¿Qué única máscara de subred sería aprop ---255.255.255.240
+37. ¿Cuál de las siguientes afirmaciones ---El tamaño de cada subred puede ser difer
+38. ¿Qué máscara de subred es necesaria ---255.255.255.192
+39. ¿Cuáles son las dos características ---Número de puerto ---Uso de checksum
+40. ¿Por qué se incluyen los números de ---Para permitir que un host receptor trans
+41. ¿Cuáles son las dos formas en que el ---Para volver a armar los segmentos en la ---Para identificar segmentos faltantes en
+42. ¿Cuáles son los dos protocolos que o ---POP ---DNS
+43. ¿Qué nombre de dominio sería un ejem ---.com
+44. ¿Cuál es una diferencia entre los mo ---Cada dispositivo en una red entre pares
+45. ¿Qué modelo de red se utiliza cuando ---Cliente/servidor
+46. Un host inalámbrico debe solicitar u ---DHCP
+47. ¿Qué servicio de red resuelve la dir
+48. Un ingeniero de red está analizando ---Un aumento en los tiempos de respuesta d
+49. ¿Qué función de cortafuegos se utili ---Inspección de paquetes con estado
+50. ¿Cuál es una indicación de que un eq ---El equipo recibe una dirección IP que co
+51. ¿Qué comando puede emitir un adminis ---terminal monitor
+52. Complete el espacio en blanco.
+Durante las comunicaciones de datos, un
+53. Una la descripción con el modo de IO
+54. Consulte la ilustración. Una los paq
+
+1. Una empresa mediana investiga cuáles ---Línea arrendada
+2. ¿Cuál es el objetivo de tener una red ---Reducir el costo de implementar y manten
+3. ¿Qué característica de una red le per ---Escalabilidad
+4. ¿Qué conexión proporciona una sesión ---Una conexión SSH
+5. Un técnico de red está intentando con ---El comando se introduce en el modo de op
+6. Una vez que se realizaron varios camb ---NVRAM
+7. Consulte la ilustración. En el modo d ---El carácter delimitador aparece en el me
+8. ¿Cuáles de las siguientes son tres ca ---Está asociada con la VLAN 1 de manera pr ---No está asociada a ninguna interfaz físi ---Proporciona una forma de administrar un
+9. Un técnico configura un switch con lo
+SwitchA(config)# interface VLAN 1
+SwitchA(config-if)# ip address 192.168.1
+SwitchA(config-if)# no shutdown
+¿Qué configura el técnico? ---SVI
+10. En la comunicación por computadora, ---Convertir la información a la forma adec
+11. ¿Cuál es el protocolo responsable de ---TCP.
+12. ¿Cuáles de los siguientes beneficios ---Impide que la tecnología de una capa afe ---Asiste en el diseño de protocolos.
+13. ¿Cuál es el proceso de dividir una t ---Segmentación
+14. Cuando el direccionamiento IPv4 se c ---Máscara de subred
+15. Un administrador de red lleva a cabo ---Capa física
+16. Un ingeniero de redes mide la transf ---la latencia generada por la cantidad de ---La cantidad de tráfico que cruza la red ---El tipo de tráfico que cruza la red
+17. ¿Qué tipo de cable UTP se utiliza pa ---Directo
+18. ¿Cuál de las siguientes es una carac ---Coloca en la trama información que permi
+19. ¿Cuáles son las tres funciones princ ---Detección de errores mediante cálculos d ---Direccionamiento de la capa de enlace de ---Delimitación de grupos de bits en tramas
+20. ¿Qué hace un host de una red Etherne ---Descarta la trama.
+21. ¿Cuáles de las siguientes son dos ac ---Uso de la tabla de direcciones MAC para ---Uso de la dirección MAC de origen de las
+22. ¿Cuáles de los siguientes son dos ej ---Switching libre de fragmentos ---Switching de envío rápido
+23. Consulte la ilustración. Si el host ---BB: BB: BB: BB: BB: BB
+24. ¿Cuáles de los siguientes son dos se ---Routing de paquetes hacia el destino ---Encapsulamiento de PDU de la capa de tra
+25. ¿Qué información se agrega durante e ---Dirección IP de origen y destino
+26. ¿Cuáles de las siguientes son dos fu ---Retener el contenido cuando se corta la ---Almacenar el archivo de configuración de
+27. Consulte la ilustración. El administ ---Dirección del Gateway predeterminado
+28. ¿Por qué un dispositivo de capa 3 re ---Para identificar la dirección de red de
+29. ¿Cuáles de los siguientes son tres i ---192.168.0.0/16 ---172.16.0.0/12 ---10.0.0.0/8
+30. ¿Qué direcciones son direcciones púb ---128.107.12.117 ---198.133.219.17 ---64.104.78.227
+31. ¿Qué tipo de dirección IPv6 es FE80 ---Link-local
+32. Consulte la ilustración. Según el re ---Hay 4 saltos entre este dispositivo y el ---Hay conectividad entre este dispositivo
+33. ¿Cuál de las siguientes subredes inc ---192.168.1.64/26
+34. ¿Cuántos hosts son direccionables en ---6
+35. ¿Cuál de las siguientes afirmaciones ---El tamaño de cada subred puede ser difer
+36. Consulte la ilustración. Considere l ---192.168.10.128
+37. ¿En qué dos situaciones se prefiere ---Cuando las aplicaciones no necesitan gar ---Cuando se necesita un mecanismo de distr
+38. ¿Qué información importante se agreg ---Números de puerto de destino y origen
+39. ¿Cuál es el mecanismo de TCP utiliza ---ventana deslizante
+40. ¿Cuáles son las tres afirmaciones qu ---UDP proporciona funciones básicas sin co ---UDP es un protocolo de sobrecarga baja q ---UDP se basa en los protocolos de la capa
+41. ¿Cuáles son las dos tareas que repre ---Encriptación ---Compresión
+42. ¿Cuáles son los dos protocolos que o ---POP ---DNS .
+43. ¿Cuáles son los dos papeles que una ---Servidor ---Cliente
+44. ¿Cuál es la función del mensaje HTTP ---Solicitar una página HTML de un servidor
+45. Un host inalámbrico debe solicitar u ---DHCP
+46. Al planificar para el crecimiento de ---En la mayor cantidad posible de segmento
+47. Cuando se aplica a un router, ¿cuál ---login block-for 60 attempts 5 within 60
+48. Consulte la ilustración. Un administ ---Alguno de los routers en la ruta no tení
+49. Un usuario no puede llegar a la pági
+DNS …
+50. ¿Qué dirección IP de origen usa un r
+La dirección IP de la interfaz de salida
+51. Una cada elemento con el tipo de dia
+52. Una la descripción con el modo de IO
+53. Una la situación con el uso adecuado
+54. Consulte la ilustración. Una los paq
+
+
+¿Cuál de las siguientes es una caracterí ---Una red que se recupera rápidamente cuan
+Tres empleados de un banco utilizan la r ---Conferencia de audio, transacciones fina
+¿Cuál de los siguientes es un beneficio ---Se extienden las funcionalidades de red
+¿Cuál es la función del shell en un SO? ---Comunica a los usuarios y el kernel.
+¿Qué conexión proporciona una sesión CL ---Una conexión SSH
+Un técnico de red está intentando confi ---El comando se introduce en el modo de op
+Un administrador utiliza la combinación ---Interrumpir el proceso de ping
+Consulte la ilustración. Un administrado ---lineconin
+¿En qué interfaz de switch configuraría ---VLAN 1
+¿Cuál es el protocolo responsable de con ---TCP
+¿Cuál es la ventaja de utilizar un proto ---Fomenta la competencia y promueve las op
+¿Cuáles de los siguientes beneficios cor ---Impide que la tecnología de una capa afe ---Asiste en el diseño de protocolos.
+¿Cuáles son las dos capas del modelo OSI ---Red ---Transporte
+¿Qué nombre se le asigna a la PDU de la ---segmento
+Un administrador de red lleva a cabo la ---Capa física
+Un administrador de redes mide la transf ---La cantidad de tráfico que cruza la red ---El tipo de tráfico que cruza la red ---La latencia generada por la cantidad de
+¿Cuál de las siguientes es una caracterí ---Anulación
+¿Cuáles de las siguientes son dos carac ---Es más caro que el cable UTP. ---No lo afectan la EMI ni la RFI.
+¿Cuál de las siguientes es una caracterí ---Coloca en la trama información que permi
+Un equipo de redes compara las topologí ---Malla parcial
+¿Qué método se utiliza para administrar ---CSMA/CA
+¿Cuáles son las tres funciones principa ---Detección de errores mediante cálculos d ---Delimitación de grupos de bits en tramas ---Direccionamiento de la capa de enlace de
+¿Qué hace un host de una red Ethernet si ---Descarta la trama.
+¿En qué método de reenvío de tramas se r ---Switching de almacenamiento y envío
+Consulte la ilustración. Si el host A en ---BB: BB: BB: BB: BB: BB
+¿Qué direcciones asigna ARP? ---Una dirección MAC de destino a una direc
+¿Cuáles de los siguientes son dos servic ---Routing de paquetes hacia el destino ---Encapsulamiento de PDU de la capa de tra
+¿Cuáles de las siguientes son dos funcio ---Almacenar el archivo de configuración de ---Retener el contenido cuando se corta la
+Consulte la ilustración. ¿Cuál es el res ---Al administrador se le mostrará la petic
+¿Cuál de las siguientes es la representa ---203.0.113.211
+¿Cuáles son tres características de la t ---Un mismo paquete se puede enviar a un gr ---Los routers pueden utilizar la transmisi ---Los routers no reenviarán direcciones de
+Cuáles de los siguientes son tres interv ---192.168.0.0/16 ---172.16.0.0/12 ---10.0.0.0/8
+¿Qué propósito cumple NAT64 en IPv6? ---Convierte los paquetes IPv6 en paquetes
+¿Cuál de las siguientes es la representa ---2001:0:0:abcd::1
+¿Cuál de estos intervalos de direccione ---FE80 :: /10
+¿Cuántas direcciones de host válidas est ---62
+El administrador de un sitio debe hacer ---255.255.255.128
+¿Cuál de las siguientes subredes incluir ---192.168.1.64/26
+¿Cuál de las siguientes afirmaciones es ---El tamaño de cada subred puede ser difer
+¿Cuál de estas situaciones describe una ---Un alumno tiene dos ventanas de explorad
+Un usuario abre tres navegadores en la m ---El número de puerto de destino
+¿Cuáles son las dos formas en que el TCP ---Para volver a armar los segmentos en la ---Para identificar segmentos faltantes en
+¿Cuáles son las dos tareas que represent ---Encriptación ---Compresión
+¿Cuál de las siguientes es una caracterí ---Uso compartido de recursos sin un servid
+Un técnico puede hacer ping a la direcci ---nslookup
+¿Qué nombre de dominio sería un ejemplo ---.com
+Una PC obtiene su dirección IP de un ser ---La dirección se devuelve al pool para su
+Un host inalámbrico debe solicitar una d ---DHCP
+¿Cuál ejemplo de código malicioso se cla ---Malware escrito para parecerse a un vide
+Cuando se aplica a un router, ¿cuál de e ---login block-for 60 attempts 5 within 60
+Un técnico de red sospecha que una conex ---show interfaces
+¿Dónde se envían los mensajes de salida ---Línea de consola
+Una la descripción con el modo de IOS re
+Consulte la ilustración. Una los paquet
+¿Qué comando puede emitir un administrad
+terminal monitor
+¿Cuál es una indicación de que un equipo
+El equipo recibe una dirección IP que co
+¿Qué dirección IP de origen utiliza un r
+La dirección IP de la interfaz de salida
+Un usuario no puede alcanzar el sitio We
+DNS
+
+¿Cuál de las siguientes es una caracterí ---Una red que se recupera rápidamente cuan
+Tres empleados de un banco utilizan la r ---Conferencia de audio, transacciones fina
+¿Cuál de los siguientes es un beneficio ---Se extienden las funcionalidades de red
+¿Cuál es la función del shell en un SO? ---Comunica a los usuarios y el kernel.
+¿Qué conexión proporciona una sesión CL ---Una conexión SSH
+Un técnico de red está intentando confi ---El comando se introduce en el modo de op
+Un administrador utiliza la combinación ---Interrumpir el proceso de ping
+Consulte la ilustración. Un administrado ---lineconin
+¿En qué interfaz de switch configuraría ---VLAN 1
+¿Cuál es el protocolo responsable de con ---TCP
+¿Cuál es la ventaja de utilizar un proto ---Fomenta la competencia y promueve las op
+¿Cuáles de los siguientes beneficios cor ---Impide que la tecnología de una capa afe ---Asiste en el diseño de protocolos.
+¿Cuáles son las dos capas del modelo OSI ---Red ---Transporte
+¿Qué nombre se le asigna a la PDU de la ---segmento
+Un administrador de red lleva a cabo la ---Capa física
+Un administrador de redes mide la transf ---La cantidad de tráfico que cruza la red ---El tipo de tráfico que cruza la red ---La latencia generada por la cantidad de
+¿Cuál de las siguientes es una caracterí ---Anulación
+¿Cuáles de las siguientes son dos carac ---Es más caro que el cable UTP. ---No lo afectan la EMI ni la RFI.
+¿Cuál de las siguientes es una caracterí ---Coloca en la trama información que permi
+Un equipo de redes compara las topologí ---Malla parcial
+¿Qué método se utiliza para administrar ---CSMA/CA
+¿Cuáles son las tres funciones principa ---Detección de errores mediante cálculos d ---Delimitación de grupos de bits en tramas ---Direccionamiento de la capa de enlace de
+¿Qué hace un host de una red Ethernet si ---Descarta la trama.
+¿En qué método de reenvío de tramas se r ---Switching de almacenamiento y envío
+Consulte la ilustración. Si el host A en ---BB: BB: BB: BB: BB: BB
+¿Qué direcciones asigna ARP? ---Una dirección MAC de destino a una direc
+¿Cuáles de los siguientes son dos servic ---Routing de paquetes hacia el destino ---Encapsulamiento de PDU de la capa de tra
+¿Cuáles de las siguientes son dos funcio ---Almacenar el archivo de configuración de ---Retener el contenido cuando se corta la
+Consulte la ilustración. ¿Cuál es el res ---Al administrador se le mostrará la petic
+¿Cuál de las siguientes es la representa ---203.0.113.211
+¿Cuáles son tres características de la t ---Un mismo paquete se puede enviar a un gr ---Los routers pueden utilizar la transmisi ---Los routers no reenviarán direcciones de
+Cuáles de los siguientes son tres interv ---192.168.0.0/16 ---172.16.0.0/12 ---10.0.0.0/8
+¿Qué propósito cumple NAT64 en IPv6? ---Convierte los paquetes IPv6 en paquetes
+¿Cuál de las siguientes es la representa ---2001:0:0:abcd::1
+¿Cuál de estos intervalos de direccione ---FE80 :: /10
+¿Cuántas direcciones de host válidas est ---62
+El administrador de un sitio debe hacer ---255.255.255.128
+¿Cuál de las siguientes subredes incluir ---192.168.1.64/26
+¿Cuál de las siguientes afirmaciones es ---El tamaño de cada subred puede ser difer
+¿Cuál de estas situaciones describe una ---Un alumno tiene dos ventanas de explorad
+Un usuario abre tres navegadores en la m ---El número de puerto de destino
+¿Cuáles son las dos formas en que el TCP ---Para volver a armar los segmentos en la ---Para identificar segmentos faltantes en
+¿Cuáles son las dos tareas que represent ---Encriptación ---Compresión
+¿Cuál de las siguientes es una caracterí ---Uso compartido de recursos sin un servid
+Un técnico puede hacer ping a la direcci ---nslookup
+¿Qué nombre de dominio sería un ejemplo ---.com
+Una PC obtiene su dirección IP de un ser ---La dirección se devuelve al pool para su
+Un host inalámbrico debe solicitar una d ---DHCP
+¿Cuál ejemplo de código malicioso se cla ---Malware escrito para parecerse a un vide
+Cuando se aplica a un router, ¿cuál de e ---login block-for 60 attempts 5 within 60
+Un técnico de red sospecha que una conex ---show interfaces
+¿Dónde se envían los mensajes de salida ---Línea de consola
+Una la descripción con el modo de IOS re
+Consulte la ilustración. Una los paquet
+¿Qué comando puede emitir un administrad
+terminal monitor
+¿Cuál es una indicación de que un equipo
+El equipo recibe una dirección IP que co
+¿Qué dirección IP de origen utiliza un r
+La dirección IP de la interfaz de salida
+Un usuario no puede alcanzar el sitio We
+DNS
